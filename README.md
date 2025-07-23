@@ -33,14 +33,13 @@ This is a full stack CRUD application developed using **Spring Boot** (Backend) 
 - Language support (multi-language via i18n)
 - H2 console for database viewing
 
-<img width="618" height="356" alt="Ekran görüntüsü 2025-07-22 145402" src="https://github.com/user-attachments/assets/833f386d-1630-40e1-9540-b77b6d54f9b2" />
-
-<img width="862" height="1012" alt="Ekran görüntüsü 2025-07-14 175612" src="https://github.com/user-attachments/assets/4c021849-2371-4757-be9b-71fe41e91864" />
-<img width="877" height="320" alt="Ekran görüntüsü 2025-07-22 145351" src="https://github.com/user-attachments/assets/a5f369c9-0927-4b3b-9deb-fee35b87053d" />
-
-<img width="751" height="549" alt="Ekran görüntüsü 2025-07-22 162539" src="https://github.com/user-attachments/assets/bdfc10a9-42eb-455d-871b-b4409a3be6a1" />
-
-<img width="734" height="591" alt="Ekran görüntüsü 2025-07-22 162531" src="https://github.com/user-attachments/assets/53a48c90-941b-4e2f-96f7-465a800acf22" />
 
 
 
+<img width="862" height="1012" alt="Ekran görüntüsü 2025-07-14 175612" src="https://github.com/user-attachments/assets/d71a090e-ab4b-408b-b4df-c8057627b884" />
+<img width="618" height="356" alt="Ekran görüntüsü 2025-07-22 145402" src="https://github.com/user-attachments/assets/9c149d22-4e36-43a2-bef7-0acaf6f29a4b" />
+<img width="1885" height="1030" alt="Ekran görüntüsü 2025-07-14 175530" src="https://github.com/user-attachments/assets/510012c4-0b4a-4311-96e1-5a543940fcda" />
+<img width="877" height="320" alt="Ekran görüntüsü 2025-07-22 145351" src="https://github.com/user-attachments/assets/dd1fd40c-2f53-4528-9535-9afe4a857de0" />
+<img width="1898" height="296" alt="Ekran görüntüsü 2025-07-22 162525" src="https://github.com/user-attachments/assets/adf1bbbc-c211-4c1d-9019-67fc7290c52d" />
+<img width="734" height="591" alt="Ekran görüntüsü 2025-07-22 162531" src="https://github.com/user-attachments/assets/beb9f308-0cba-497c-8cb6-62a8796f2083" />
+<img width="751" height="549" alt="Ekran görüntüsü 2025-07-22 162539" src="https://github.com/user-attachments/assets/465e0e9c-d7ad-433e-af94-610e0e33ef09" />
